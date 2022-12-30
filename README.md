@@ -10,13 +10,8 @@ entity, dupes a victim into opening an email, instant message, or text message.
 ## Technology Used
 
 <div>
-    <img name = "HTML" src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img name = "Python" src = "[https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/-PYTHON-red)">
     <img name = "Excel" src = "https://img.shields.io/badge/MS-EXCEL-green">
-    <img name = "Bootstrap" src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img name = "CSharp" src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img name = "NET" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img name = "SQL" src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img name = "Azure" src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </div>
 
 ## Contact
@@ -30,7 +25,4 @@ entity, dupes a victim into opening an email, instant message, or text message.
   <li>Sara Sameer</li>
   <a href="mailto:sarasameer991@gmail.com"><img name = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/sara-sameer-/"><img name = "LinkedIn" src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <li>Ajar Sarmad</li>
-    <a href="mailto:k191440@nu.edu.pk"><img name = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/ajar-sarmad-941305184/"><img name = "LinkedIn" src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </ul>
