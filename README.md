@@ -10,7 +10,7 @@ entity, dupes a victim into opening an email, instant message, or text message.
 ## Technology Used
 
 <div>
-    <img name = "Python" src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/-PYTHON-red">
+
     <img name = "Excel" src = "https://img.shields.io/badge/MS-EXCEL-green">
 </div>
 
