@@ -5,8 +5,17 @@
 Phishing is a form of social engineering attack that is frequently employed to steal user information, such as login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted
 entity, dupes a victim into opening an email, instant message, or text message.
 
-
-
+## What is the way we are proposing to address the problem?
+We are working on the dataset provided by Kaggle which has a total of 50 features, contributing to
+Phishing in general. We have utilized two models, a Random forest classifier and logistic regression to
+find the optimal number of features that contribute to phishing, hence we will be getting the top listed
+factors related to phishing.
+We have the following evaluation metric:
+● Accuracy Score
+● F1 Score
+● Support
+● Precision
+● Recall
 ## Technology Used
 
 <div>
